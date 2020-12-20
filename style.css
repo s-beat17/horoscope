@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+#spring { color: limegreen;}
+#summer { color: red;}
+#autumn { color: yellow;}
+#winter { color: blue;}
+body {
+    font-family: 'Roboto';
+}
+a {
+    text-decoration: underline;
+}
+img {
+    margin: 0px 5px 0px 0px;
+}
+.text {
+    margin-top: 0px;
+    margin-left: 50px;
+    text-align: justify;
+}
+p {
+    margin: 0px 0px 0px 10px;
+}
+a.link1 {
+    color: limegreen;
+}
+a.link2 {
+    color: red;
+}
+a.link3 {
+    color: yellow;
+}
+a.link4 {
+    color: blue;
+}
